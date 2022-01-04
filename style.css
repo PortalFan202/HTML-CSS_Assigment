@@ -132,7 +132,7 @@ body{
     transform: matrix(-1, 0, 0, 1, 0, 0);
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
 
     #header{
         position: static;
@@ -205,9 +205,8 @@ body{
     #mascot{
         position: static;
         transform: matrix(-1, 0, 0, 1, 0, 0);
-        max-height: 80%;
-        width: 50%;
-        
+        max-height: 202px;
+        max-width: 45%;      
     }
     
 }
